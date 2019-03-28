@@ -1,0 +1,14 @@
+.header {
+  padding: 10px;
+  text-align: center;
+  background: pink;
+  color: white;
+  font-size: 20px;
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: blue;
+  color: white;
+  font-size: 10px;
+}
